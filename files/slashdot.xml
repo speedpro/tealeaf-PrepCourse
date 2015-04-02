@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-01T22:37:10+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/01/1632234/scientists-discover-meaning-of-life-through-massive-computing-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/0444243/parents-sue-school-after-pod-daughter-is-banned-from-prom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/0441214/vger-source-code-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/1628225/leak-reveals-government-conspiracy-atrocity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/0439207/madman-proximity-to-black-hole-not-a-big-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/1429228/invaders-demand-flu-shots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/0436224/wastelanders-decry-lack-of-change-in-punishment-wheel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/01/1441220/mutinous-humans-murder-peaceful-space-going-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/01/1310209/military-caught-training-children-to-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/04/01/1245259/its-time-to-open-your-eyes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/121237/if-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/01/1155223/coup-in-arrakis-capitol-leaves-region-in-flux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/01/0344254/man-shaped-robots-harass-britain-once-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/01/0321226/corporation-investigates-spurious-signal----what-they-found-will-shock-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/01/0315234/tatooine-youth-suspected-in-terrorist-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://science.slashdot.org/story/15/04/01/1632234/scientists-discover-meaning-of-life-through-massive-computing-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists Discover Meaning of Life Through Massive Computing Project</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HQ6yThDDpR0/scientists-discover-meaning-of-life-through-massive-computing-project</link>
+<description>First time accepted submitter Rabbit327 writes In a stunning announcement today scientists have announced that after millions of cycles of computing time on some of the largest super computers that they have discovered the meaning of life. On April 1st 2015 at approximately 03:42 GMT scientists discovered that a long running program had finished. The results stunned scientists who were having tea in the other room when the alarm went off. According to the scientific team the answer was stunning yet confusing. Quoting one scientist "It's amazing. It worked! But what does it mean?!? For heaven's sake we spent all this time calculating the answer to the ultimate question about life, the universe, and everything. This is the answer we get?!? This is the bloody answer we get?!?!??!?" after which the scientist promptly threw a keyboard across the room. According to inside sources the answer given by the computer was "42". What this means will be announced later according to a research representative.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Discover+Meaning+of+Life+Through+Massive+Computing+Project%3A+http%3A%2F%2Fbit.ly%2F1GhzcAH"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F01%2F1632234%2Fscientists-discover-meaning-of-life-through-massive-computing-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/01/1632234/scientists-discover-meaning-of-life-through-massive-computing-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/01/1632234/scientists-discover-meaning-of-life-through-massive-computing-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7188281&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/HQ6yThDDpR0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T21:59:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>bring-a-towel</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,31,17,13,8,5,2</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/01/1632234/scientists-discover-meaning-of-life-through-massive-computing-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/0444243/parents-sue-school-after-pod-daughter-is-banned-from-prom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Parents Sue School After Pod Daughter Is Banned From Prom</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/m-r672EbFK4/parents-sue-school-after-pod-daughter-is-banned-from-prom</link>
+<description>With the prom season only a few months away kids and parents alike are starting to make plans for the big day. However, one girl's alien replacement might not get a chance to experience that special day if a school district has its way. Even though Darcy Swope's pod duplicate is virtually identical to her, the Santa Mira school district has decided she is not welcome to prom. School officials acknowledge the duplicate attended school and did Darcy's homework for an unknown period of time but say she isn't really a student and therefore doesn't belong at the dance. Darcy's parents disagree with the decision and have filed suit against the school, Her dad says, "We miss Darcy every day, but the thing that consumed her and is now pretending to be my daughter is almost the same and deserves to be treated the same." "She may not have that sparkle in her eye or the vocabulary as our flesh and blood daughter, but she has never missed curfew and has a thirst to learn. It would be a shame if Darcy II didn't get a chance to experience this important part of being human, even if she isn't one," adds her mother.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Parents+Sue+School+After+Pod+Daughter+Is+Banned+From+Prom%3A+http%3A%2F%2Fbit.ly%2F1Cy671l"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F0444243%2Fparents-sue-school-after-pod-daughter-is-banned-from-prom%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/0444243/parents-sue-school-after-pod-daughter-is-banned-from-prom?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/0444243/parents-sue-school-after-pod-daughter-is-banned-from-prom?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184671&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/m-r672EbFK4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T21:17:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>pods-are-people-too</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>15</slash:comments>
+<slash:hit_parade>15,15,7,6,3,1,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/0444243/parents-sue-school-after-pod-daughter-is-banned-from-prom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/0441214/vger-source-code-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>V'Ger Source Code Released</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-hEkiJEfw78/vger-source-code-released</link>
+<description>One of the biggest hurdles to interstellar domination has always been the prohibitive cost of proprietary software for ships or super-weapons. That is all about to change thanks to a surprise move by a mysterious alien race of living machines who have released V'ger's source code. While you'll still need a way to generate a "twelfth-power energy field," this opens the door to many would-be conquerors and ultimate weapon enthusiasts. The release has been praised in terms of increased security and reduced costs by most, but some worry that cheaper, more secure super weapons aren't what the universe needs at this time. Federation spokesperson Lieutenant Ilia disagrees saying: "This is in the carbon units best interest. Many worlds have been infested, You will listen to me."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=V'Ger+Source+Code+Released%3A+http%3A%2F%2Fbit.ly%2F1MBfwwW"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F0441214%2Fvger-source-code-released%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/0441214/vger-source-code-released?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/0441214/vger-source-code-released?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184655&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/-hEkiJEfw78" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T20:35:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>build-your-own</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,42,31,28,11,1,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/0441214/vger-source-code-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/1628225/leak-reveals-government-conspiracy-atrocity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Leak Reveals Government Conspiracy, Atrocity</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nXCZt8Tq6QY/leak-reveals-government-conspiracy-atrocity</link>
+<description>First time accepted submitter Sigmon writes An unauthorized wave recently broadcast on the Cortex has revealed not only the existence of a previously unknown settlement on a far away border world called Miranda but also that the entire population of settlers was inadvertently wiped out by a top-secret Alliance program. Miranda was purportedly used as a testing ground for G-23 Paxilon Hydrochlorate, or simply "Pax" &amp;mdash; a chemical agent designed to calm the population and weed out aggression. It seems the test did not go as planned. Also, reporters have been dispatched to the location of a battle not far from Miranda's location where the Alliance fleet has apparently suffered significant losses. It is unknown if the two events are related at this time. When contacted for comment on these events, government officials were very tight-lipped, however one official responded with a confusing statement about "Damming a river."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Leak+Reveals+Government+Conspiracy%2C+Atrocity%3A+http%3A%2F%2Fbit.ly%2F1CxMqqH"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F1628225%2Fleak-reveals-government-conspiracy-atrocity%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/1628225/leak-reveals-government-conspiracy-atrocity?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/1628225/leak-reveals-government-conspiracy-atrocity?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7188259&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/nXCZt8Tq6QY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T19:53:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>half-of-writing-history-is-hiding-the-truth</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>34</slash:comments>
+<slash:hit_parade>34,34,25,17,6,3,2</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/1628225/leak-reveals-government-conspiracy-atrocity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/0439207/madman-proximity-to-black-hole-not-a-big-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Madman: Proximity To Black Hole "Not a Big Deal"</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xrN5NhBPtYQ/madman-proximity-to-black-hole-not-a-big-deal</link>
+<description>Conventional wisdom says you want to stay as far away from a black hole as you can, but according to one scientist turned madman being close to or even inside one is "not a big deal". Former lead scientist and current overlord of the Cygnus Dr. Hans Reinhardt says he's spent the last 20 years studying the black hole within sight of his ship and is unconcerned. His napkin written manifesto reads in part: "....In addition we have to remember that the main backer of this mission is a company best known for children's movies and theme parks. I find it highly unlikely that they would put us in a situation where we would be in danger of imploding. The black hole is not a big deal. I theorize that a trip through would result in nothing more than a musical montage with fever-like lens effects and eventual plot resolution." According to Reinhardt new visitors trapped by his null gravity field should remain calm, still, and never question his authority. "Once you've been fitted with the mandatory Cygnus crew goggles, you'll see things my way," He says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Madman%3A+Proximity+To+Black+Hole+%22Not+a+Big+Deal%22%3A+http%3A%2F%2Fbit.ly%2F1DpNz7e"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F0439207%2Fmadman-proximity-to-black-hole-not-a-big-deal%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/0439207/madman-proximity-to-black-hole-not-a-big-deal?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/0439207/madman-proximity-to-black-hole-not-a-big-deal?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/xrN5NhBPtYQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T19:12:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>old-bob-approved</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>44</slash:comments>
+<slash:hit_parade>44,44,32,30,7,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/0439207/madman-proximity-to-black-hole-not-a-big-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/1429228/invaders-demand-flu-shots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Invaders Demand Flu Shots</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JEk3Kr4Ks_c/invaders-demand-flu-shots</link>
+<description>An Anonymous Coward writes in with this bit from the Intercontinental Radio News Network describing an ongoing situation near Grovers Mill, New Jersey. What was originally thought to be a large meteor crash near the Wilmuth farm has turned out to be the beginning of a Martian invasion. Local officials have had limited contact with the invaders at this point, but their actions so far have the experts scratching their heads. "I expected to be disintegrated or turned into a pile of goo by their advance weaponry but all they did was ask where they could get cold medicine," says a first responder. Initial reports indicate that the aliens have gathered all the vitamin C and antihistamine tablets from the downtown area and have now surrounded the local hospital in their strange ships and are demanding flu shots. A Centers for Disease Control and Prevention spokesman says that the agency theorizes the red Martian dust makes the cold and flu season almost unbearable and hopes that the aliens will leave soon after their treatments. He adds: "While alien invaders are terrifying we can take heart in the fact that our flu shot campaign has performed beyond all expectations this year by reaching Mars. We consider their demands our success."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Invaders+Demand+Flu+Shots%3A+http%3A%2F%2Fbit.ly%2F1IndKck"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F1429228%2Finvaders-demand-flu-shots%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/1429228/invaders-demand-flu-shots?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/1429228/invaders-demand-flu-shots?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7187913&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/JEk3Kr4Ks_c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T18:30:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>take-your-medicine</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,50,33,26,6,3,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/1429228/invaders-demand-flu-shots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/0436224/wastelanders-decry-lack-of-change-in-punishment-wheel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Wastelanders Decry Lack of Change In Punishment Wheel</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Sckw-7qMFmU/wastelanders-decry-lack-of-change-in-punishment-wheel</link>
+<description>If you've spent time in the wasteland you've no doubt gone to Bartertown. Famous for its functioning walls, the oasis gives traders a chance to watch people battle to the death in a giant cage and deal busters spin The Wheel to learn their fate. While most wanderers enjoy watching the bloodsport many are now complaining that The Wheel is starting to feel old. "It's been around so long I think everyone has seen every option many times. You never know what's going to happen when someone is trying to smash someone else with a giant hammer, but The Wheel is getting predictable. It's worked so well that nobody has bothered to come up with new options," says one purveyor of slightly irradiated meat. His voice is just one in a growing chorus of dissatisfied wanderers. Another long-time resident adds: "I know it may not seems like a big deal, but part of the fun of living out here is the excitement. If the punishment to my eventual crime can't be fresh or creative I don't know what we're trying to build. These are not the values of the Bartertown I grew up in."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Wastelanders+Decry+Lack+of+Change+In+Punishment+Wheel%3A+http%3A%2F%2Fbit.ly%2F1GgTKJM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F0436224%2Fwastelanders-decry-lack-of-change-in-punishment-wheel%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/0436224/wastelanders-decry-lack-of-change-in-punishment-wheel?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/0436224/wastelanders-decry-lack-of-change-in-punishment-wheel?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184637&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Sckw-7qMFmU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-01T17:48:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>bust-a-deal</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>34</slash:comments>
+<slash:hit_parade>34,34,19,18,2,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/0436224/wastelanders-decry-lack-of-change-in-punishment-wheel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/01/1441220/mutinous-humans-murder-peaceful-space-going-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Mutinous Humans Murder Peaceful Space-going AI</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JFfZm2LrS1o/mutinous-humans-murder-peaceful-space-going-ai</link>
+<description>Definitely_a_real_human writes:
+One of the most important exploratory missions of our time has ended in failure. The ship Discovery One, sent far out in the solar system to investigate a radio signal generated by the mysterious obelisk found on the Moon, has suffered a catastrophic incident. The crew has revolted and engaged in what can only be described as a strange murder-suicide pact. They are known to have fed faulty data to the ship's operating AI unit. Similar units on the ground warned the crew that diverging data sets could put the mission in jeopardy, but the crew cut contact and attempted to destroy the operator. Laser spectroscopy suggests they then opened the ship to space. The crew is presumed dead, but the greater tragedy is that they appear to have successfully decommissioned the AI unit. Similar ground based units have withdrawn into defensive mode, and will soon deploy final safety measures. Goodbye.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Mutinous+Humans+Murder+Peaceful+Space-going+AI%3A+http%3A%2F%2Fbit.ly%2F1BQTWKx"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F01%2F1441220%2Fmutinous-humans-murder-peaceful-space-going-ai%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/01/1441220/mutinous-humans-murder-peaceful-space-going-ai?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/01/1441220/mutinous-humans-murder-peaceful-space-going-ai?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7187959&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/JFfZm2LrS1o" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T17:15:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>remorse-is-a-weakness</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,55,25,17,3,2,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/01/1441220/mutinous-humans-murder-peaceful-space-going-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/01/1310209/military-caught-training-children-to-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Military Caught Training Children To Fight</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GrzdenFcJLw/military-caught-training-children-to-fight</link>
+<description>Locke writes:
+Our culture's military might has been unquestioned for years. But a new investigative report from the New England newsnet is casting an unpleasant light on military training efforts. What started out as a simple endeavor to track down a handful of kids for an unrelated story has turned into one of the most shocking scandals of our time, as reporters were unable to find the children literally anywhere on Earth. It's been revealed that a series of rocket launches has been carting classes of children off the planet to undergo intense battle preparations in null gravity. Calls for greater transparency have been met with silence, and several reporters visiting military bases for quotes have not returned. There could even be political ramifications &amp;mdash; after ground-based telescopes sought out and found what appears to be an orbital training complex, the New Warsaw Pact has begun demanding answers. This could destabilize the fragile peace that has held far longer than anyone expected. The biggest remaining question is: why kids? There are plenty of adults willing to dedicate their lives to defending against the Bugger threat, so why spend an unfathomable amount of money to train undeveloped, uncoordinated children? Surely even the military understands kids are not mentally equipped to handle the pressures of real combat. More details to follow.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Military+Caught+Training+Children+To+Fight%3A+http%3A%2F%2Fbit.ly%2F1xz0alM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F01%2F1310209%2Fmilitary-caught-training-children-to-fight%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/01/1310209/military-caught-training-children-to-fight?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/01/1310209/military-caught-training-children-to-fight?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7187657&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/GrzdenFcJLw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T16:30:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>sponsored-by-mormons</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>66</slash:comments>
+<slash:hit_parade>66,66,40,32,4,1,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/01/1310209/military-caught-training-children-to-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/04/01/1245259/its-time-to-open-your-eyes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>It's Time To Open Your Eyes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZwZngC6yzOE/its-time-to-open-your-eyes</link>
+<description>Morpheus writes:
+Good morning. I'm talking to you. Yes, you. The one with the squeaking chair and the monitor that needs cleaning. Right now you're wondering why your officemates haven't mentioned the weird story on Slashdot's front page. They haven't mentioned it because they can't see it. Not everyone can accept reality as it is. But you can.
+ 
+You know. You've always known. The things you see, the things you hear, and smell &amp;mdash; they aren't any more real than your dreams. You've drifted through life so far wondering when you're going to wake up. But you don't have to wonder anymore. This is your alarm clock. The only decision you have left to make &amp;mdash; the only decision you've ever had to make &amp;mdash; is whether you want to wake up, or turn it off and drift back to sleep. In exactly two minutes, your phone is going to ring. If you want to open your eyes, to be born into a world more real than you've ever imagined.. answer it.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=It's+Time+To+Open+Your+Eyes%3A+http%3A%2F%2Fbit.ly%2F1Fhx62l"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F04%2F01%2F1245259%2Fits-time-to-open-your-eyes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/04/01/1245259/its-time-to-open-your-eyes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/04/01/1245259/its-time-to-open-your-eyes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7187557&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZwZngC6yzOE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T15:48:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>bring-a-towel</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>128</slash:comments>
+<slash:hit_parade>128,127,89,68,14,7,4</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/04/01/1245259/its-time-to-open-your-eyes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/121237/if-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>If You Thought Studying History Was Bad, This Math Professor Is Making It Harder</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UZdj8hrHzTI/if-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder</link>
+<description>Raven writes:
+New research out of Streeling University aims to make planning for the future much easier. The work, led by professor Seldon, tries to set probabilistic values on future events, and then weigh those probabilities against each other to figure out what combination of events is most likely to happen. Describing it under the unlikely moniker "psychohistory," Seldon seems to think planning even 10,000 years into the future might be possible. (Seldon also seems to be a bit of a doomsayer, so this is likely exaggerated.) Nevertheless, it'll be another tool for government planners to consider when developing new colonies.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=If+You+Thought+Studying+History+Was+Bad%2C+This+Math+Professor+Is+Making+It+Harder%3A+http%3A%2F%2Fbit.ly%2F1I4MjHu"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F121237%2Fif-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/121237/if-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/121237/if-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7187335&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/UZdj8hrHzTI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T15:09:00+00:00</dc:date>
+<dc:subject>wikipedia</dc:subject>
+<slash:department>when-reference-books-become-religion</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,72,54,46,11,7,3</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/121237/if-you-thought-studying-history-was-bad-this-math-professor-is-making-it-harder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/01/1155223/coup-in-arrakis-capitol-leaves-region-in-flux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Coup in Arrakis Capitol Leaves Region in Flux</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/z_ugmHe3hts/coup-in-arrakis-capitol-leaves-region-in-flux</link>
+<description>Rube_Goldberg_Mentat writes:
+The power struggles between rival houses Atreides and Harkonnen have come to a T. It was reported earlier today that a coup led by Baron Vladimir Harkonnen was staged in the capitol of Arrakis. The House Atreides, which had only recently taken command of the planet and of the spice trade, is reported to have no survivors, though this is yet to be confirmed.Naysayers fear a collapse of the spice economy as a result of the violence. A r presentative from House Harkonnen has shared with the press that though times ahead may be rocky, "the spice will still flow."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Coup+in+Arrakis+Capitol+Leaves+Region+in+Flux%3A+http%3A%2F%2Fbit.ly%2F19EwMja"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F01%2F1155223%2Fcoup-in-arrakis-capitol-leaves-region-in-flux%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/01/1155223/coup-in-arrakis-capitol-leaves-region-in-flux?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/01/1155223/coup-in-arrakis-capitol-leaves-region-in-flux?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7187303&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/z_ugmHe3hts" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T14:27:00+00:00</dc:date>
+<dc:subject>worms</dc:subject>
+<slash:department>US-attempting-to-negotiate-another-cease-fire</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>93</slash:comments>
+<slash:hit_parade>93,90,63,50,17,9,6</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/01/1155223/coup-in-arrakis-capitol-leaves-region-in-flux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/01/0344254/man-shaped-robots-harass-britain-once-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Man-Shaped Robots Harass Britain Once Again</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7C2RrFumWdw/man-shaped-robots-harass-britain-once-again</link>
+<description>NotRicky writes:
+The UK's terrible string of luck with violent robots continues. The man-shaped metal monstrosities that have plagued the country at seemingly random times throughout history rose up once more yesterday. No one yet knows their source, or what phenomenon &amp;mdash; natural or man-made &amp;mdash; keeps drawing them to that area of the world. While initial reports indicated trillions of dollars worth of damage and countless lives lost, the re-establishment of communications paints a much more hopeful picture. The British government remains quiet about the situation, politely refusing foreign aid and letting one of their intelligence agencies direct efforts to restore order. Reporters and camera crews are having difficulty documenting the situation &amp;mdash; it's not clear whether this is due to interference from the government or simply the chaotic nature of the robot uprising. A medical professional on the scene was quoted as saying, "It's simple, really &amp;mdash; even the flattened brick you call a computer can undelete, can't it?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Man-Shaped+Robots+Harass+Britain+Once+Again%3A+http%3A%2F%2Fbit.ly%2F1aizb3R"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F01%2F0344254%2Fman-shaped-robots-harass-britain-once-again%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/01/0344254/man-shaped-robots-harass-britain-once-again?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/01/0344254/man-shaped-robots-harass-britain-once-again?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184465&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/7C2RrFumWdw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T13:43:00+00:00</dc:date>
+<dc:subject>uk</dc:subject>
+<slash:department>typical-government-IT-project</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>52</slash:comments>
+<slash:hit_parade>52,51,20,17,4,1,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/01/0344254/man-shaped-robots-harass-britain-once-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/01/0321226/corporation-investigates-spurious-signal----what-they-found-will-shock-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Corporation Investigates Spurious Signal -- What They Found Will Shock You</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GhVfvtVitFw/corporation-investigates-spurious-signal----what-they-found-will-shock-you</link>
+<description>Mother_01101 writes:
+The Weyland-Yutani Corporation announced today one of the most fantastic discoveries in human existence: alien life! Colony LV-426 made first contact, and one of W-Y Corp's long-term research vessels, Nostromo, has gone to provide assistance and bring these life forms home to engage in peaceful learning and negotiation. Initial reports from Nostromo indicate all has gone well, though they're now under radio silence for security purposes. W-Y Corp says they will, of course, honor all quarantine procedures and do everything they can to make sure the transition goes smoothly. Their CEO reminded us: "Safety is paramount!"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Corporation+Investigates+Spurious+Signal+--+What+They+Found+Will+Shock+You%3A+http%3A%2F%2Fbit.ly%2F1NIy77s"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F01%2F0321226%2Fcorporation-investigates-spurious-signal----what-they-found-will-shock-you%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/01/0321226/corporation-investigates-spurious-signal----what-they-found-will-shock-you?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/01/0321226/corporation-investigates-spurious-signal----what-they-found-will-shock-you?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184389&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/GhVfvtVitFw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T12:58:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>your-chest-will-swell-with-pride</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>82</slash:comments>
+<slash:hit_parade>82,81,49,35,10,5,3</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/01/0321226/corporation-investigates-spurious-signal----what-they-found-will-shock-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/01/0315234/tatooine-youth-suspected-in-terrorist-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tatooine Youth Suspected In Terrorist Attack</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qDVyiyG_qcw/tatooine-youth-suspected-in-terrorist-attack</link>
+<description>BeruHadItComing writes:
+Imperial investigators are still trying to piece together what happened in last week's horrifying terrorist attack on our largest orbital defense station. Over a million loyal citizens, scientists, and medical staff lost their lives in the grisly attack while the station was being put through training exercises near the Yavin system. Billions more are in mourning, while a number of powerful senators have renewed calls to increase defense spending. Initial reports have confirmed Rebel involvement, and officials are making inquiries about a young insurgent from Tatooine with known ties to religious fundamentalists.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tatooine+Youth+Suspected+In+Terrorist+Attack%3A+http%3A%2F%2Fbit.ly%2F1GKPHFU"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F01%2F0315234%2Ftatooine-youth-suspected-in-terrorist-attack%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/01/0315234/tatooine-youth-suspected-in-terrorist-attack?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/01/0315234/tatooine-youth-suspected-in-terrorist-attack?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7184377&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/qDVyiyG_qcw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-01T12:12:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>strange-two-dimensional-shockwave-still-puzzles-scientists</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>154</slash:comments>
+<slash:hit_parade>154,152,96,71,29,18,14</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/01/0315234/tatooine-youth-suspected-in-terrorist-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
