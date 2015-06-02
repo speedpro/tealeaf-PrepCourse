@@ -1,0 +1,11 @@
+1.  flintstones = %w(Fred Barney Wilma Betty BamBam Pebbles)
+
+2.  flintstones.push "Dino"
+
+3.  flintstones.push("Dino").push "Hoppy"
+
+4.  advice.split("house").first
+
+5.  statement.scan("t").count
+
+6.  title.center 40
