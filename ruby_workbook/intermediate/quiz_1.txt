@@ -1,0 +1,88 @@
+1. 10.times { puts msg.insert(0," ") }
+
+2. chars = statement.chars.sort.uniq
+   result = {}
+   chars.each do |char|
+     result[char] = statement.scan(char).count
+   end
+   puts result
+
+3. Adding a string to an integer is not possible, so it's throwing an error.
+   Fix it by explicitly, or implicitly, converting the integer into a string i.e.:
+
+     puts "the value of 40 + 2 is " + (40 + 2).to_s
+
+   or
+
+     puts "the value of 40 + 2 is #{40 + 2}"
+
+4.  1
+    3
+     => [3,4]
+
+    1
+    2
+     => [1,2]
+
+5.  change
+
+      begin
+        ...
+      end until dividend == 0
+
+    to
+
+      while (dividend > 0)
+        ...
+      end
+
+
+    Bonus 1:
+
+        number % dividend
+
+      Checks to ensure that there is no remainder from the division equation
+
+    Bonus 2:
+
+     Returns the array of divisors to the caller
+
+6.  Technically, yes. The shovel operator is modifying the caller,
+    which is the variable that was handed to the function, whereas the + operator is creating a new buffer variable,
+     and returning that result.
+
+     thus, buffer1 mutates the caller, whereas buffer2 does not
+
+
+7.  the 'limit' variable is outside the scope of the 'fib()' method.
+    declare the limit variable inside the method to resolve this.
+
+
+8.  def titleize! (string)
+      words = string.split
+      words.each do |word|
+        word.capitalize!
+      end
+      words.join " "
+    end
+
+    OR
+
+      def titleize! (string)
+        string.split.map { |word| word.capitalize }.join " "
+      end
+
+9.  munsters.map do |name,person|
+      person[:age_group] = case person["age"]
+
+      when 0...17
+        "kid"
+      when 18...64
+        "adult"
+      else
+        "senior"
+      end
+    end
+
+
+
