@@ -1,0 +1,45 @@
+1.  total_age = 0
+    munsters.each do |name, details|
+      if details["gender"].downcase == "male"
+        total_age += details["age"]
+      end
+    end
+
+2.  format = "(name) is a (age) year old (gender)"
+    munsters.each do |name,details|
+      msg = format.gsub("(name)", name)
+
+      details.each do |key, value|
+        msg = msg.gsub("(#{key})", value.to_s)
+      end
+      p msg
+    end
+
+3.  def new_method(a_string_param, an_array_param)
+      a_string_param += "rutabega"
+      an_array_param += ["rutabega"]
+
+      return a_string_param, an_array_param
+    end
+
+    my_string = "pumpkins"
+    my_array = ["pumpkins"]
+    my_string, my_array = new_method(my_string, my_array)
+
+    puts "My string looks like this now: #{my_string}"
+    puts "My array looks like this now: #{my_array}"
+
+
+4.  sentence.split.reverse.join" "
+
+5. 34
+
+6. Yes, the actual Hash object was passed in and mangled as is.
+   If a new object had been assigned to the variable demo_hash,
+   then it wouldn't have mangled the original data.
+
+7. paper
+
+8. no
+
+9.
