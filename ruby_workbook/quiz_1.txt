@@ -1,0 +1,30 @@
+1. [1, 2, 3]
+
+2. ! swaps a boolean value in a conditional statement. ? generally indicates a conditional statement
+    1. != is "Does Not Equal". It should be used when trying to ensure two things are not the same
+    2. !user_name will swap the boolean value. i.e: if user_name is set, it will return false, but if user_name is not set, it will return true
+    3. For certain functions ending in !, they will mutate the caller and permanently change the calling object
+    4. Indicates that a conditional has been evaluated and the next statement will execute if the conditional is true
+    5. For certain functions ending in ?, they evaluate a condition and return a boolean value
+    6. will return its actual boolean value
+
+3. advice.gsub(/important/, 'urgent')
+
+4. delete_at() returns the value of the deleted item, whereas delete() returns the number of items deleted
+
+5. 42.between? 10,100
+    (10..100).cover? 42
+
+6. famous_words = 'Four score and ' + famous_words
+   famous_words.prepend "Four score and "
+
+7. 42
+
+8. flintstones.flatten!
+
+9. barney = flintstones.assoc('Barney')
+
+10. arr_hash = {}
+    arr.each_with_index do |name, idx|
+      arr_hash[name] = idx
+    end
