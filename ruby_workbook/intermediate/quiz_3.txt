@@ -1,0 +1,63 @@
+1.
+        FUNCTION:                         OBJECT_ID
+     a_outer = 42                           # 1
+     b_outer = "forty two"                  # 2
+     c_outer = [42]                         # 3
+     d_outer = c_outer[0]                   # 1 - Same value as a, so reusing the object
+
+     a_outer = 22                           # 4 - Creating new objects
+     b_outer = "thirty three"               # 5
+     c_outer = [44]                         # 6
+     d_outer = c_outer[0]                   # 7
+
+     a_inner = a_outer                      # 1 - same objects as outside the block
+     b_inner = b_outer                      # 2
+     c_inner = c_outer                      # 3
+     d_inner = c_inner[0]                   # 5
+
+2.
+      a_outer is 42 with an id of: 85 before the block.
+      b_outer is forty two with an id of: 71759000 before the block.
+      c_outer is [42] with an id of: 71758990 before the block.
+      d_outer is 42 with an id of: 85 before the block.
+
+    object 85 was reused as it had the same value
+
+      a_outer id was 85 before the method and is: 85 inside the method.
+      b_outer id was 71759000 before the method and is: 71759000 inside the method.
+      c_outer id was 71758990 before the method and is: 71758990 inside the method.
+      d_outer id was 85 before the method and is: 85 inside the method.
+
+    Using all the same objects inside the method
+
+      a_outer inside after reassignment is 22 with an id of: 85 before and: 45 after.
+      b_outer inside after reassignment is thirty three with an id of: 71759000 before and: 71758620 after.
+      c_outer inside after reassignment is [44] with an id of: 71758990 before and: 71758610 after.
+      d_outer inside after reassignment is 44 with an id of: 85 before and: 89 after.
+
+    New objects for the variables inside the method scope
+
+      a_inner is 22 with an id of: 45 inside the method (compared to 45 for outer).
+      b_inner is thirty three with an id of: 71758620 inside the method (compared to 71758620 for outer).
+      c_inner is [44] with an id of: 71758610 inside the method (compared to 71758610 for outer).
+      d_inner is 44 with an id of: 89 inside the method (compared to 89 for outer).
+
+    inner variables all point to existing objects
+
+      a_outer is 42 with an id of: 85 BEFORE and: 85 AFTER the method call.
+      b_outer is forty two with an id of: 71759000 BEFORE and: 71759000 AFTER the method call.
+      c_outer is [42] with an id of: 71758990 BEFORE and: 71758990 AFTER the method call.
+      d_outer is 42 with an id of: 85 BEFORE and: 85 AFTER the method call.
+
+    once outside the method scope, we're working with the original objects
+
+
+3.  My String looks like this now: pumpkins             #A new object was ceated within the method scope when using the + operator
+    My array looks like this now: [pumpkins,rutabaga]   #The original array was mutated when using the << operator
+
+4.  My string looks like this now: rutabaga     #The gsub! function mutated the original object
+    My array looks like this now ["Pumpkins"]   #the = operator created a new object within the scope of the tricky_method
+
+5.  def color_valid
+      color == "blue" || color == "green"
+    end
