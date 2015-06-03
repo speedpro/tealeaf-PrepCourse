@@ -1,0 +1,58 @@
+1.  I expected an uninitialised variable, but it evaluated to nil since it was inside an if block.
+
+2.  informal_greeting references the object inside the greetings hash, and the shovel operator mutates the object, so greetings will output { a: "hi there" }
+
+3.
+    A)  one is one
+        two is two
+        three is three
+
+    B)  one is one
+        two is two
+        three is three
+
+    C)  one is two
+        two is three
+        three is one
+
+4.
+
+    require "securerandom"
+
+    def gen_uuid
+      uuid = []
+      uuid[0] = SecureRandom.hex(6)
+      uuid[1] = SecureRandom.hex(2)
+      uuid[2] = SecureRandom.hex(2)
+      uuid[3] = SecureRandom.hex(2)
+      uuid[4] = SecureRandom.hex(6)
+
+      uuid.join"-"
+    end
+
+    def gen_uuid_manual
+      hex_chars = []
+      (0...9).each { |digit| hex_chars << digit.to_s }
+      ("a"..."f").each { |digit| hex_chars << digit }
+
+      uuid = ""
+      sections = [8,4,4,4,12]
+      sections.each_with_index do |num, index|
+        num.times { |i| uuid += hex_chars.sample }
+        uuid += "-" unless index >= sections.length-1
+      end
+      uuid
+    end
+
+5.  def dot_separated_ip_address?(input_string)
+      dot_separated_words = input_string.split(".")
+
+      return false unless (dot_separated_words.size == 4)
+
+      while dot_separated_words.size > 0 do
+        word = dot_separated_words.pop
+        return false if !is_a_number?(word)
+      end
+
+      true
+    end
